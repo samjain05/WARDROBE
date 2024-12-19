@@ -245,7 +245,7 @@
     <section class="about" id="about">
         <h2>Concept</h2>
         <p>A smart wardrobe system that leverages AI and IoT to organize, recommend, and manage your clothing. It helps you plan outfits, track usage, and even suggest purchases, revolutionizing the way people interact with their wardrobe.</p>
-        <img src="C:\Users\skail\Downloads\2b6c175a-7c9d-41ef-a4c2-0330d59dfc87.webp" height="400" width="400">
+        <img src="![image](https://github.com/user-attachments/assets/11c21e5a-fe58-48d6-9618-9eb47aa17e29)" height="400" width="400">
         <br><br>
         <a href="#features">Read More</a>
     </section>       
